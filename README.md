@@ -21,6 +21,7 @@ Click the button below to open a pre-configured Codespace with all the dependenc
 
 1. [Attach images to an issue](./01-github-latest-features/attach-images-to-an-issue/README.md): Add a screenshot to an issue from the terminal.
 2. [Create a stacked PR](./01-github-latest-features/create-a-stacked-pr/README.md): Split one change into small pull requests that build on each other.
+3. [Create your first agentic workflow](./01-github-latest-features/create-your-first-agentic-workflow/README.md): Build and manually run a read-only review workflow in your fork.
 
 ### Manage your open source project
 
