@@ -51,6 +51,7 @@ safe-outputs:
   report-missing-data: false
   report-missing-tool: false
   report-failure-as-issue: false
+  report-failed-jobs: false
   # actions:
   # activation-comments:
   # add-comment:
