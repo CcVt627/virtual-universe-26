@@ -5,7 +5,8 @@
 **Section 1 · 2 tutorials · 5 min each**
 
 In this section you'll learn how to use the GitHub CLI to attach images to an
-issue and to create a stacked pull request.
+issue and to create a stacked pull request. You can also build a manually
+triggered, read-only agentic workflow in your fork.
 
 > **Note**
 >
@@ -38,6 +39,8 @@ Then pick a tutorial. Use this same terminal for both.
 
 1. [Attach images to an issue](attach-images-to-an-issue/README.md): add a screenshot to an issue from the terminal.
 2. [Create a stacked PR](create-a-stacked-pr/README.md): split one change into small pull requests that build on each other.
+
+To explore GitHub Agentic Workflows, follow [Create your first agentic workflow](create-your-first-agentic-workflow/README.md).
 
 If you're an open source maintainer, check out the
 [settings we've shipped to help you manage your project](manage-your-open-source-project/README.md)
